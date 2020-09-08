@@ -1,0 +1,6 @@
+framework module CollectionPickerView {
+  umbrella header "CollectionPickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
